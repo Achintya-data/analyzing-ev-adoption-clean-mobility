@@ -9,7 +9,6 @@ The repository is built around the final Tableau workbook and polished presentat
 - [Final report](reports/final-report.pdf)
 - [Tableau workbook](dashboard/analyzing-ev-adoption-clean-mobility.twbx)
 - [Final presentation](slides/final-presentation.pptx)
-- [Presentation video](media/final-presentation-video.mkv)
 
 ## Project Focus
 
